@@ -16,19 +16,9 @@ if (window.top !== window.self) {
             (function () {
                 const i = document.createElement("img");
                 i.src = "https://www.dropbox.com/s/0o6u1a0771qfd6d/overlay.png?raw=1";
-                i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1000px;height: 1000px;";
+                i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 1000px;";
                 console.log(i);
                 return i;
-            })())
-    }, false);
-    window.addEventListener('load', () => {
-        document.getElementsByTagName("mona-lisa-embed")[0].shadowRoot.children[0].getElementsByTagName("mona-lisa-canvas")[0].shadowRoot.children[0].appendChild(
-            (function () {
-                const j = document.createElement("img");
-		j.src = "https://www.dropbox.com/s/0o6u1a0771qfd6d/overlay.png?raw=1";
-		j.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 1000px;";
-                console.log(j);
-                return j;
             })())
     }, false);
 }
