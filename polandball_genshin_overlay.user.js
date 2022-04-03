@@ -4,7 +4,7 @@
 // @version      0.0.2
 // @description  This script made possibe by: https://github.com/r-PlaceTux/Overlay AND https://gitlab.com/alifurkany/overlayify
 // @author       r/polandball
-// @downloadURL  https://github.com/MagicalGirlDittoChan/genshin-polandball-place/raw/main/userscript-blurfix.user.js
+// @downloadURL  https://github.com/MagicalGirlDittoChan/genshin-polandball-place/raw/main/polandball_genshin_overlay.user.js
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
