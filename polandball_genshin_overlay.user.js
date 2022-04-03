@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Polandball+Genshin overlay
 // @namespace    https://reddit.com/r/polandball
-// @version      0.0.1
+// @version      0.0.2
 // @description  This script made possibe by: https://github.com/r-PlaceTux/Overlay AND https://gitlab.com/alifurkany/overlayify
 // @author       r/polandball
 // @downloadURL  https://github.com/MagicalGirlDittoChan/genshin-polandball-place/raw/main/userscript-blurfix.user.js
