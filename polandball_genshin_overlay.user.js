@@ -16,7 +16,7 @@ if (window.top !== window.self) {
             (function () {
                 const i = document.createElement("img");
                 i.src = "https://www.dropbox.com/s/0o6u1a0771qfd6d/overlay.png?raw=1";
-                i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 1000px;";
+                i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 2000px;";
                 console.log(i);
                 return i;
             })())
