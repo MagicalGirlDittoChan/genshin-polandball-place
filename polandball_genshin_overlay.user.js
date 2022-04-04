@@ -19,7 +19,7 @@ if (window.top !== window.self) {
         const image = document.createElement("img");
         image.src = "https://www.dropbox.com/s/jr4crnn654mjxwz/overlay.png?raw=1";
         image.onload = () => {
-            image.style = `position: absolute; left: 0; top: 0; width: ${image.width/3}px; height: ${image.height/3}px; image-rendering: pixelated; z-index: 1`;
+            image.style = `position: absolute; left: 0; top: 0; width: 2000px; height: 2000px; image-rendering: pixelated; z-index: 1`;
         };
       
         // Add the image as overlay
