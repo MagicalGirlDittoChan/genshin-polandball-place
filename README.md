@@ -1,4 +1,6 @@
-# Genshin Impact 🤝 Polandball r/Place overlay script
+# Gacha Alliance r/Place overlay script
+
+This script was created by the Gacha Alliance, and posted here by r/polandball for your convenience.
 
 ## How to use this
 
